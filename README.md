@@ -1,5 +1,5 @@
 # Hi, I'm Ayush! 👋
-I am a BTech CSE AI/ML undergrad who loves building scalable projects and making my way into the open-source world. I am really into blending software with hardware and bringing cool, innovative ideas to life. You will be seeing a lot more of my work from here on, so cheers 🤙🏻
+I am a BTech CSE AI/ML undergrad who loves building scalable projects and am currently making my way into the open-source world. I am really into blending software with hardware and bringing cool, innovative ideas to life. You will be seeing a lot more of my work from here on, so cheers 🤙🏻
 
 ### 📊 My Coding Activity
 <!-- These cards automatically update as you code! -->
